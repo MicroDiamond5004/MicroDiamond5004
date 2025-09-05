@@ -1,12 +1,11 @@
 # 👋 Hey there, I'm Sergei Petrov
 
-I'm a passionate Full Stack Engineer from Russia with 3+ years of experience in web development and SEO. I specialize in modern JavaScript ecosystems — React, TypeScript, Node.js — and love building clean, efficient, and engaging applications.
+I'm a passionate Full Stack Engineer with 6+ years of experience in web development and SEO. I specialize in modern JavaScript ecosystems — React, TypeScript, Node.js — and love building clean, efficient, and engaging applications.
 
 ---
 
 ## About Me
 
-- 🎓 3rd-year student at Rosbiotech University
 - 💼 Full Stack Developer at ELMA365 with automation API access
 - 📍 Based in Florida, working remotely
 - 🛠️ Skilled in React, Redux, Express, MongoDB, Tailwind, and more
