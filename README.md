@@ -1,69 +1,39 @@
-# 👋 Hey there, I'm Sergei Petrov
+# Sergei Petrov
 
-I'm a passionate Full Stack Engineer with 6+ years of experience in web development and SEO. I specialize in modern JavaScript ecosystems — React, TypeScript, Node.js — and love building clean, efficient, and engaging applications.
+Full stack engineer building AI products end to end — GPU inference pipelines, event-driven backends, and the
+React surfaces on top. Currently founding engineer at OmniRogue. Based in Florida, relocating to the West Coast.
 
----
+## What I'm working on
 
-## About Me
+**[OmniRogue](https://www.omnirogue.com)** — founding engineer on a multimodal AI platform that unifies 100+
+models (image, video, audio, text) behind one subscription. I built it from an empty repo:
 
-- 💼 Full Stack Developer at ELMA365 with automation API access
-- 📍 Based in Florida, working remotely
-- 🛠️ Skilled in React, Redux, Express, MongoDB, Tailwind, and more
-- 🌐 Strong background in SEO (semantics, behavioral factors, microdata)
-- ✍️ Open to collaborations, freelance projects, and startup challenges
+- A generation gateway routing **100+ models across 10 providers** with per-provider fallback, retry, and
+  cost-based routing
+- An event-driven backend (NestJS, BullMQ, NATS, Redis, Temporal) clearing **5–10K async AI jobs a day**
+- GPU rendering on RunPod workers, and a video pipeline I rebuilt to cost **$0.05 a render instead of $3.50**
+- Stripe billing, role-based access control, and an AI support agent that resolves 90% of tickets
 
----
+Today it runs at **$503K ARR** with 12K monthly active users.
 
-## 🧰 Tech Stack
+## Stack
 
-**Languages:**  
-`JavaScript` | `TypeScript` | `PHP` | `HTML` | `CSS` | `SQL`
+**Languages** — TypeScript · JavaScript · Python · SQL
+**Frontend** — React · Next.js · Redux Toolkit · Tailwind
+**Backend** — Node.js · NestJS · Express · REST · GraphQL · tRPC · WebSockets
+**AI** — LLM applications · agent orchestration · multimodal model integration · OpenRouter · RunPod · FFmpeg
+**Distributed** — BullMQ · NATS · Temporal · Redis · event-driven architecture
+**Data & infra** — PostgreSQL · MongoDB · Redis · Prisma · Docker · Kubernetes · AWS · CI/CD
 
-**Frontend:**  
-`React` | `Redux Toolkit` | `Next.js` | `Tailwind CSS` | `Vite` | `HTML5`
+## Selected repositories
 
-**Backend:**  
-`Node.js` | `Express` | `MongoDB` | `PostgreSQL` | `Firebase`
+- **[n8n-nodes-1health](https://github.com/MicroDiamond5004/n8n-nodes-1health)** — an n8n community node for the
+  1Health healthcare API (TypeScript), built while at 1health.io
+- **[Client-portal](https://github.com/MicroDiamond5004/Client-portal)** — multi-role client workspace with
+  CASL-based access control, dashboards, and rich-text editing
+- **[Shelter](https://github.com/MicroDiamond5004/Shelter)** — browser implementation of the "Bunker" social
+  deduction game, in vanilla JS
 
-**Tools & Workflow:**  
-`Git & GitHub` | `Figma` | `ESLint` | `Vercel` | `Service Workers` | `Web Push` | `REST API` | `CI/CD`
+## Contact
 
----
-
-## 📦 Featured Projects
-
-### 🔐 [Client Portal](https://github.com/MicroDiamond5004/Client-portal)  
-Secure client system with login/auth, protected routes, and role-based UI. Built with **React + TypeScript + Vite**. Demonstrates real-world project structure and API interaction.
-
-### 🏙️ [Six Cities](https://github.com/MicroDiamond5004/Six-cities)  
-A travel-themed SPA with dynamic city-based filtering, built on **React + Redux Toolkit**. Implements routing, async REST calls, and map integration.
-
-### 🧠 [Shelter — The Bunker Game](https://github.com/MicroDiamond5004/Shelter)  
-A browser-based survival game based on the “Bunker” social game. Players get randomized roles and traits for post-apocalyptic debates. Built with **Vanilla JS + Vite**. Combines UI/UX work with game logic and personality.
-
-### ✅ [Todos](https://github.com/MicroDiamond5004/Todo)  
-A simple but stylish task manager app using **React Hooks**. Includes persistent state, form handling, and responsive design.
-
----
-
-## 📊 GitHub Stats & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDiamond5004&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MicroDiamond5004&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicroDiamond5004&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn — @serhiocoder](https://www.linkedin.com/in/serhiocoder/)
-- ✉️ serhiocoder@gmail.com
-- 🌍 [GitHub — @MicroDiamond5004](https://github.com/MicroDiamond5004)
-
-> *"Code like a poet. Think like a strategist."*
-
+[LinkedIn](https://linkedin.com/in/serhiocoder) · serhiocoder@gmail.com
