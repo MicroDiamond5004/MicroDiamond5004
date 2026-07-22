@@ -3,10 +3,10 @@
 Full stack engineer building AI products end to end — inference pipelines, event-driven backends, and the
 React surfaces on top. Based in Florida, relocating to the West Coast.
 
-I currently work as a founding engineer on a multimodal AI platform. I built the model-orchestration gateway
-(routing across many providers with fallback, retry, and cost-based routing), the event-driven job pipeline
-on NestJS, BullMQ, NATS, Redis, and Temporal, GPU rendering on RunPod workers, Stripe billing with role-based
-access control, and an AI-powered support agent.
+I'm the founding engineer at [OmniRogue](https://www.omnirogue.com), a multimodal AI platform. I built the
+model-orchestration gateway (routing across many providers with fallback, retry, and cost-based routing), the
+event-driven job pipeline on NestJS, BullMQ, NATS, Redis, and Temporal, GPU rendering on RunPod workers, Stripe
+billing with role-based access control, and an AI-powered support agent.
 
 ## Stack
 
